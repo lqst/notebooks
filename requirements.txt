@@ -1,8 +1,11 @@
 matplotlib==3.3.2
-neo4j==4.3.1
-numpy==1.19.2
-pandas==1.1.3
-scikit-learn==0.24.2
+neo4j==4.4.0
+numpy>=1.20
+pandas==1.4.1
+scikit-learn==1.0.2
 plotly==4.14.3
 ipywidgets>=7.5
 networkx>=2.5
+xlrd >= 1.0.0
+openpyxl >= 3.0.9
+graphdatascience==0.0.9
