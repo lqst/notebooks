@@ -1,5 +1,6 @@
 matplotlib==3.3.2
-neo4j==4.4.4
+#neo4j==4.4.5
+neo4j-python-driver==4.4.5
 numpy>=1.20
 pandas==1.4.1
 scikit-learn==1.0.2
@@ -8,4 +9,5 @@ ipywidgets>=7.5
 networkx>=2.5
 xlrd >= 1.0.0
 openpyxl >= 3.0.9
-graphdatascience==1.0.0
+pyarrow==7.0.0
+#pip install graphdatascience==1.2.0
