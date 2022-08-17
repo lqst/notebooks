@@ -1,7 +1,7 @@
 matplotlib==3.3.2
 #neo4j==4.4.5
 neo4j-python-driver==4.4.5
-numpy~>1.22
+numpy>=1.22
 pandas==1.4.1
 scikit-learn==1.0.2
 plotly==4.14.3
