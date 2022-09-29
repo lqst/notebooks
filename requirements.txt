@@ -11,3 +11,4 @@ xlrd >= 1.0.0
 openpyxl >= 3.0.9
 pyarrow==7.0.0
 #pip install graphdatascience==1.2.0
+#pip install graphdatascience==1.3
